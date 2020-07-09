@@ -1,0 +1,107 @@
+/********************** le css du menu ***********************/
+.logo{
+  position: relative;
+  width: 10%;
+  height: 10%;
+  margin-left: 20px;
+  margin-top: -40px;
+}
+div.scrollmenu {
+  background-color: #333;
+}
+div.scrollmenu a {
+  margin-left: 50px;
+  font-size: 30px;
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 40px;
+  text-decoration: none;
+}
+div.scrollmenu a:hover {
+  font-size: 40px;
+  border-top: 1px solid red;
+  color: red;
+}
+/************************** titr h1 et h2 ****************************/
+.titre{
+  width: 60rem;
+  height: 5rem;
+  text-align: center;
+  margin: auto;
+  margin-top: 6rem;
+  background-color:  #FCF3CF;
+}
+h1{
+margin-top: 20px;
+text-align: center;
+}
+h2{
+  margin-top: 30px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.formulaire{
+
+  text-align: center;
+  margin:auto;
+  width: 35rem;
+  margin-top: 5rem;
+  background-color:#FCF3CF;
+}
+/************ css du tableau avec post *******************/
+.tabmultiplucation{
+  position: relative;
+  margin-left: 60rem;
+}
+.texte{
+  position:relative;
+  color: red;
+  font-size: 50px;
+  margin-top: 30px;
+  margin-left: -20rem;
+}
+.ligne{
+  font-size: 30px;
+  background-color: #FCF3CF;
+  text-align: center;
+  margin-left: 50rem;
+}
+/************************** css des liste ****************************/
+.resultat{
+  width: 10rem;
+}
+.texte1{
+  position:relative;
+  color: red;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-left: 4rem;
+}
+.tabmultiplucation1{
+  margin-left: 5rem;
+  display: inline-block;
+}
+.bouton{
+  position: relative;
+  background-color:#FCF8CC;
+  border: none;
+  width: 10rem;
+  height: 3rem;
+  margin-left: 62rem;
+  margin-top: 10rem;
+}
+.ligne1{
+  font-size: 30px;
+  background-color: #FCF3CF;
+  text-align: center;
+  margin-left: 50rem;
+
+}
+.tbl{
+  margin-top: 5rem;
+}
+.de{
+  width: 2rem;
+}
